@@ -1,4 +1,4 @@
-package laba1.timus.task_1874;
+package laba1.task_1874;
 
 import java.util.Scanner;
 import java.lang.Math;
